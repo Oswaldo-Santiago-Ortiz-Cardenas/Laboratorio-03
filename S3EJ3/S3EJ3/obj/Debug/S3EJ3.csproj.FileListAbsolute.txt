@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\bin\Debug\S3EJ3.exe.config
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\bin\Debug\S3EJ3.exe
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\bin\Debug\S3EJ3.pdb
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\obj\Debug\S3EJ3.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\obj\Debug\S3EJ3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\obj\Debug\S3EJ3.exe
+C:\Users\Administrador\Desktop\S3EJ3\S3EJ3\obj\Debug\S3EJ3.pdb
